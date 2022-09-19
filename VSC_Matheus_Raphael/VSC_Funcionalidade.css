@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: rgb(48, 46, 46);
+}
+/*Navbar*/
+#NavbarNav ul li:last-child{
+    text-transform: uppercase;
+}
+
+/*Main*/
+h2, h3{
+color: #0076b8;
+font-family: 'Source Code Pro', monospace;
+}
+
+p, h5, li{
+    color:white;
+    font-family: 'Source Code Pro', monospace;
+    }
+/*Rodapé*/
+
+.caixa-conteudo {
+
+    background-color:#092336;
+    font-family: "Calibri", Times, serif;
+}
+
